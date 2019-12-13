@@ -1,0 +1,6 @@
+C:\Users\ADMIN\source\repos\WcfServiceDemo\WcfServiceDemo\bin\WcfServiceDemo.dll.config
+C:\Users\ADMIN\source\repos\WcfServiceDemo\WcfServiceDemo\bin\WcfServiceDemo.dll
+C:\Users\ADMIN\source\repos\WcfServiceDemo\WcfServiceDemo\bin\WcfServiceDemo.pdb
+C:\Users\ADMIN\source\repos\WcfServiceDemo\WcfServiceDemo\obj\Debug\WcfServiceDemo.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\WcfServiceDemo\WcfServiceDemo\obj\Debug\WcfServiceDemo.dll
+C:\Users\ADMIN\source\repos\WcfServiceDemo\WcfServiceDemo\obj\Debug\WcfServiceDemo.pdb
